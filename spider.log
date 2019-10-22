@@ -1,0 +1,309 @@
+2019-10-22 11:00:23,878 have 2 urls to process, starting threads...
+2019-10-22 11:00:24,826 200 00.9 https://github.com/
+2019-10-22 11:00:25,575 200 00.7 https://en.wikipedia.org/
+2019-10-22 11:00:26,736 200 01.1 https://github.com/features/code-review/
+2019-10-22 11:00:28,211 200 01.4 https://github.com/features/package-registry
+2019-10-22 11:00:29,247 200 01.0 https://github.com/features
+2019-10-22 11:00:29,895 200 01.0 https://github.com/marketplace
+2019-10-22 11:00:29,918 200 00.6 https://github.com/join?plan=business_plus&setup_organization=true&source=home-enterprise-prompt
+2019-10-22 11:00:30,724 200 00.7 https://github.com/customer-stories/nationwide
+2019-10-22 11:00:30,926 200 01.0 https://github.com/features/code-review
+2019-10-22 11:00:30,940          stats: 10/215 urls processed, 4%
+2019-10-22 11:00:31,577 200 00.8 https://github.com/pricing
+2019-10-22 11:00:32,446 200 00.8 https://github.com/features/integrations
+2019-10-22 11:00:32,676 200 01.7 https://github.com/trending
+2019-10-22 11:00:33,386 200 00.9 https://github.com/features/actions
+2019-10-22 11:00:33,434 200 00.6 https://github.com/join?plan=business&setup_organization=true&source=home
+2019-10-22 11:00:34,295 200 00.8 https://github.com/customer-stories/spotify
+2019-10-22 11:00:34,646 200 01.2 https://github.com/features/project-management/
+2019-10-22 11:00:34,668 200 00.7 https://github.com/customer-stories/kris-nova
+2019-10-22 11:00:35,055 200 00.7 https://github.com/enterprise
+2019-10-22 11:00:35,475 200 00.8 https://github.com/collections
+2019-10-22 11:00:35,488          stats: 20/215 urls processed, 9%
+2019-10-22 11:00:35,544 200 00.8 https://github.com/collections
+2019-10-22 11:00:35,785 200 00.7 https://github.com/customer-stories/mgm-resorts
+2019-10-22 11:00:36,027 200 00.5 https://github.com/login
+2019-10-22 11:00:36,454 200 00.6 https://github.com/security
+2019-10-22 11:00:37,484 200 01.0 https://github.com/open-source
+2019-10-22 11:00:37,777 200 01.7 https://github.com/explore
+2019-10-22 11:00:37,905 301 02.3 https://help.github.com/en/github/site-policy/github-terms-of-service -- external, skip
+2019-10-22 11:00:38,206 200 00.7 https://github.com/customer-stories/freakboy3742
+2019-10-22 11:00:38,547 200 00.7 https://github.com/about/press
+2019-10-22 11:00:38,926 200 00.7 https://github.com/personal
+2019-10-22 11:00:38,936 200 01.0 https://github.com/business
+2019-10-22 11:00:39,631 200 01.0 https://github.com/features/security
+2019-10-22 11:00:39,927 200 01.0 https://github.com/features/project-management
+2019-10-22 11:00:40,266 200 01.3 https://github.com/about
+2019-10-22 11:00:40,267 200 01.3 https://github.com/customer-stories
+2019-10-22 11:00:40,307 200 00.6 https://github.com/nonprofit
+2019-10-22 11:00:41,004 200 00.7 https://github.com/join?source=header-home
+2019-10-22 11:00:41,087 200 00.7 https://github.com/topics
+2019-10-22 11:00:41,123 200 01.2 https://github.com/customer-stories/yyx990803
+2019-10-22 11:00:41,169          stats: 40/215 urls processed, 18%
+2019-10-22 11:00:41,245 200 00.8 https://github.com/about/careers
+2019-10-22 11:00:41,885 200 00.7 https://github.com/join?source=button-home
+2019-10-22 11:00:42,075 200 00.9 https://github.com/customer-stories/sap
+2019-10-22 11:00:42,157 200 01.1 https://github.com/github
+2019-10-22 11:00:42,227 200 00.9 https://github.com/events
+2019-10-22 11:00:42,924 200 01.0 https://github.com/customer-stories/jessfraz
+2019-10-22 11:00:43,387 301 01.1 https://support.github.com -- external, skip
+2019-10-22 11:00:43,396 301 01.1 https://support.github.com -- external, skip
+2019-10-22 11:00:43,546 200 00.6 https://en.wikipedia.org/wiki/Springs_Mills_Building
+2019-10-22 11:00:43,596 301 01.5 https://help.github.com/en/github/site-policy/github-privacy-statement -- external, skip
+2019-10-22 11:00:43,955 200 00.5 https://en.wikipedia.org/wiki/Ingalill_Mosander
+2019-10-22 11:00:44,069 200 00.6 https://en.wikipedia.org/wiki/Encyclopedia
+2019-10-22 11:00:44,209 200 00.6 https://en.wikipedia.org/wiki/Red_Metropolitana_de_Movilidad
+2019-10-22 11:00:44,326 200 00.7 https://en.wikipedia.org/wiki/Black_flying_fox
+2019-10-22 11:00:44,646 200 00.6 https://en.wikipedia.org/wiki/United_States_Secretary_of_the_Treasury
+2019-10-22 11:00:44,655 200 00.7 https://en.wikipedia.org/wiki/Margaret_Atwood
+2019-10-22 11:00:44,929 200 00.7 https://en.wikipedia.org/wiki/2019_Lebanese_protests
+2019-10-22 11:00:44,978 200 00.7 https://en.wikipedia.org/wiki/Portal:Geography
+2019-10-22 11:00:45,249 200 00.8 https://en.wikipedia.org/wiki/United_States_Senate
+2019-10-22 11:00:45,860 200 00.8 https://en.wikipedia.org/wiki/Wikimedia_Foundation
+2019-10-22 11:00:46,029          stats: 60/215 urls processed, 27%
+2019-10-22 11:00:46,108 200 00.9 https://en.wikipedia.org/wiki/Australian_Football_League
+2019-10-22 11:00:46,347 200 00.8 https://en.wikipedia.org/wiki/United_States_House_of_Representatives
+2019-10-22 11:00:46,509 200 01.4 https://en.wikipedia.org/wiki/Costa_Concordia_disaster
+2019-10-22 11:00:46,545 200 00.9 https://en.wikipedia.org/wiki/Portal:Current_events
+2019-10-22 11:00:46,864 200 00.8 https://en.wikipedia.org/wiki/Bernardine_Evaristo
+2019-10-22 11:00:47,073 SQL 00.5 slow: UPDATE `urls` SET `status` = ?, `body` = ? WHERE `id` = ?; params: [200, None, 59]
+2019-10-22 11:00:47,545 200 00.6 https://en.wikipedia.org/wiki/Portal:Mathematics
+2019-10-22 11:00:47,627 200 00.6 https://en.wikipedia.org/wiki/Portal:Arts
+2019-10-22 11:00:47,908 200 00.6 https://en.wikipedia.org/wiki/Portal:Contents/Portals
+2019-10-22 11:00:47,989 200 00.6 https://en.wikipedia.org/wiki/International_Stuttering_Awareness_Day
+2019-10-22 11:00:48,017 200 00.9 https://en.wikipedia.org/wiki/Benjamin_Harrison
+2019-10-22 11:00:48,467 200 00.7 https://en.wikipedia.org/wiki/Magnetic_resonance_imaging
+2019-10-22 11:00:48,647 200 00.9 https://en.wikipedia.org/wiki/Magnetic_resonance_imaging
+2019-10-22 11:00:49,006 200 00.7 https://en.wikipedia.org/wiki/Portal:Science
+2019-10-22 11:00:49,056 200 00.6 https://en.wikipedia.org/wiki/Booker_Prize
+2019-10-22 11:00:49,347 200 00.5 https://en.wikipedia.org/wiki/Charles_Taylor_Sherman
+2019-10-22 11:00:49,529 200 00.7 https://en.wikipedia.org/wiki/Wikipedia:In_the_news/Candidates
+2019-10-22 11:00:49,723 200 01.0 https://en.wikipedia.org/wiki/Ohio
+2019-10-22 11:00:50,020 200 00.8 https://en.wikipedia.org/wiki/Portal:Society
+2019-10-22 11:00:50,077 200 00.9 https://en.wikipedia.org/wiki/Portal:Society
+2019-10-22 11:00:50,588 200 01.2 https://en.wikipedia.org/wiki/Special:SpecialPages
+2019-10-22 11:00:50,916 200 00.6 https://en.wikipedia.org/wiki/Girl%2C_Woman%2C_Other
+2019-10-22 11:00:50,977 200 00.7 https://en.wikipedia.org/wiki/Hubert_Pierlot
+2019-10-22 11:00:51,087 200 00.8 https://en.wikipedia.org/wiki/Hubert_Pierlot
+2019-10-22 11:00:51,187 200 00.5 https://en.wikipedia.org/wiki/Jan_Mosander
+2019-10-22 11:00:51,215 200 00.7 https://en.wikipedia.org/wiki/EvergreenHealth
+2019-10-22 11:00:51,328          stats: 80/215 urls processed, 37%
+2019-10-22 11:00:51,617 200 00.6 https://en.wikipedia.org/wiki/2019_Chilean_protests
+2019-10-22 11:00:52,179 200 00.9 https://en.wikipedia.org/wiki/Ursula_K._Le_Guin
+2019-10-22 11:00:52,464 200 01.1 https://en.wikipedia.org/wiki/Santiago
+2019-10-22 11:00:52,492 200 01.2 https://en.wikipedia.org/wiki/Ursula_K._Le_Guin
+2019-10-22 11:00:52,498 200 01.1 https://en.wikipedia.org/wiki/Ursula_K._Le_Guin
+2019-10-22 11:00:53,217 200 01.5 https://en.wikipedia.org/wiki/Free_content
+2019-10-22 11:00:53,532 SQL 00.6 slow: UPDATE `urls` SET `status` = ?, `body` = ? WHERE `id` = ?; params: [200, None, 81]
+2019-10-22 11:00:54,115 200 00.7 https://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Main%2BPage&action=show-download-screen
+2019-10-22 11:00:54,156 200 00.7 https://en.wikipedia.org/wiki/Heart_rate
+2019-10-22 11:00:54,240 200 00.6 https://en.wikipedia.org/wiki/New_York_City_Landmarks_Preservation_Commission
+2019-10-22 11:00:54,284 200 00.6 https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard
+2019-10-22 11:00:54,764 200 00.5 https://en.wikipedia.org/wiki/Hannah_Mitchell
+2019-10-22 11:00:55,015 200 00.6 https://en.wikipedia.org/wiki/Mark_Hurd
+2019-10-22 11:00:55,068          stats: 90/215 urls processed, 41%
+2019-10-22 11:00:55,090 200 01.7 https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Main%2BPage
+2019-10-22 11:00:55,105          stats: 90/215 urls processed, 41%
+2019-10-22 11:00:55,106 200 00.6 https://en.wikipedia.org/wiki/Mark_Hurd
+2019-10-22 11:00:55,120 200 00.6 https://en.wikipedia.org/wiki/Mark_Hurd
+2019-10-22 11:00:55,531 200 00.7 https://en.wikipedia.org/wiki/Portal:History
+2019-10-22 11:00:55,796 200 00.6 https://en.wikipedia.org/wiki/United_States_Secretary_of_State
+2019-10-22 11:00:55,927 200 00.6 https://en.wikipedia.org/wiki/United_States_Secretary_of_State
+2019-10-22 11:00:55,988 200 00.7 https://en.wikipedia.org/wiki/Deaths_in_2019
+2019-10-22 11:00:56,188 200 00.9 https://en.wikipedia.org/wiki/Bat
+2019-10-22 11:00:56,902 200 01.2 https://en.wikipedia.org/wiki/American_Civil_War
+2019-10-22 11:00:57,356 200 01.3 https://en.wikipedia.org/wiki/Nectar
+2019-10-22 11:00:58,687 200 02.2 https://en.wikipedia.org/wiki/Erhard_Eppler
+2019-10-22 11:00:58,736          stats: 100/215 urls processed, 46%
+2019-10-22 11:00:58,738 200 01.3 https://en.wikipedia.org/w/index.php?title=Main_Page&action=history
+2019-10-22 11:00:58,782 400 02.2 https://en.wikipedia.org/wiki/Thomas_D%2527Alesandro_III
+2019-10-22 11:00:58,792          stats: 100/215 urls processed, 46%
+2019-10-22 11:00:58,819          stats: 100/215 urls processed, 46%
+2019-10-22 11:00:59,453 200 02.2 https://en.wikipedia.org/wiki/Muammar_Gaddafi
+2019-10-22 11:00:59,825 200 03.1 https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=917272779
+2019-10-22 11:00:59,926 200 01.0 https://en.wikipedia.org/wiki/Sherman_Antitrust_Act_of_1890
+2019-10-22 11:01:00,429 200 01.5 https://en.wikipedia.org/wiki/Sherman_Antitrust_Act_of_1890
+2019-10-22 11:01:00,478 200 01.6 https://en.wikipedia.org/wiki/Sherman_Antitrust_Act_of_1890
+2019-10-22 11:01:00,696 200 00.6 https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer
+2019-10-22 11:01:01,037 200 00.9 https://en.wikipedia.org/w/index.php?title=Main_Page&printable=yes
+2019-10-22 11:01:01,116 200 00.5 https://en.wikipedia.org/wiki/Patricia_Bagot
+2019-10-22 11:01:01,136 200 01.1 https://en.wikipedia.org/w/index.php?title=Main_Page&printable=yes
+2019-10-22 11:01:01,254 200 00.7 https://en.wikipedia.org/wiki/Patricia_Bagot
+2019-10-22 11:01:01,967 200 00.8 https://en.wikipedia.org/wiki/Meteorological_history_of_Hurricane_Patricia
+2019-10-22 11:01:02,025 200 01.3 https://en.wikipedia.org/wiki/Megabat
+2019-10-22 11:01:02,043 200 00.9 https://en.wikipedia.org/wiki/1727
+2019-10-22 11:01:02,271 200 01.0 https://en.wikipedia.org/wiki/Meteorological_history_of_Hurricane_Patricia
+2019-10-22 11:01:02,561          stats: 110/215 urls processed, 51%
+2019-10-22 11:01:02,881 200 01.6 https://en.wikipedia.org/wiki/2019_Turkish_offensive_into_north-eastern_Syria
+2019-10-22 11:01:03,536 200 00.9 https://en.wikipedia.org/wiki/Threatened_species
+2019-10-22 11:01:03,618 200 01.1 https://en.wikipedia.org/wiki/Wikipedia:About
+2019-10-22 11:01:03,637 200 01.2 https://en.wikipedia.org/wiki/Portal:Contents
+2019-10-22 11:01:03,787 200 01.3 https://en.wikipedia.org/wiki/Portal:Contents
+2019-10-22 11:01:04,536 200 01.3 https://en.wikipedia.org/wiki/Line_engraving
+2019-10-22 11:01:04,804 200 00.9 https://en.wikipedia.org/wiki/Landcare_Research
+2019-10-22 11:01:04,885 200 01.0 https://en.wikipedia.org/wiki/October_23
+2019-10-22 11:01:05,028 200 01.0 https://en.wikipedia.org/wiki/Bengt_Feldreich
+2019-10-22 11:01:05,397 200 01.4 https://en.wikipedia.org/wiki/October_23
+2019-10-22 11:01:06,269 200 01.7 https://en.wikipedia.org/wiki/October_21
+2019-10-22 11:01:06,330 200 01.4 https://en.wikipedia.org/wiki/October_22
+2019-10-22 11:01:06,522 200 01.4 https://en.wikipedia.org/wiki/Drosophila_subobscura
+2019-10-22 11:01:06,588          stats: 120/215 urls processed, 55%
+2019-10-22 11:01:06,654          stats: 120/215 urls processed, 55%
+2019-10-22 11:01:06,697          stats: 120/215 urls processed, 55%
+2019-10-22 11:01:07,128 200 01.9 https://en.wikipedia.org/wiki/United_States_Department_of_the_Treasury
+2019-10-22 11:01:07,308 200 00.6 https://en.wikipedia.org/wiki/Interstate_Commerce_Act_of_1887
+2019-10-22 11:01:07,350 200 01.8 https://en.wikipedia.org/wiki/Coronation_of_the_British_monarch
+2019-10-22 11:01:07,496 200 00.7 https://en.wikipedia.org/wiki/Interstate_Commerce_Act_of_1887
+2019-10-22 11:01:07,510 200 00.7 https://en.wikipedia.org/wiki/Interstate_Commerce_Act_of_1887
+2019-10-22 11:01:07,997 200 00.7 https://en.wikipedia.org/wiki/Marlion_Pickett
+2019-10-22 11:01:08,606 200 00.8 https://en.wikipedia.org/wiki/Habitat_destruction
+2019-10-22 11:01:08,743 200 01.1 https://en.wikipedia.org/wiki/English_language
+2019-10-22 11:01:09,057 200 01.4 https://en.wikipedia.org/wiki/Impeachment_inquiry_against_Donald_Trump
+2019-10-22 11:01:09,247 200 01.6 https://en.wikipedia.org/wiki/English_language
+2019-10-22 11:01:09,579 400 01.5 https://en.wikipedia.org/wiki/Miss%2527d_America
+2019-10-22 11:01:09,636 200 00.7 https://en.wikipedia.org/wiki/Wikipedia:Village_pump
+2019-10-22 11:01:09,770 SQL 00.5 slow: UPDATE `urls` SET `status` = ?, `body` = ? WHERE `id` = ?; params: [200, None, 124]
+2019-10-22 11:01:10,006          stats: 130/215 urls processed, 60%
+2019-10-22 11:01:10,367 200 00.6 https://en.wikipedia.org/wiki/Bureau_of_Engraving_and_Printing
+2019-10-22 11:01:10,417 200 00.7 https://en.wikipedia.org/wiki/Bureau_of_Engraving_and_Printing
+2019-10-22 11:01:10,485 200 00.6 https://en.wikipedia.org/wiki/Nick_Tosches
+2019-10-22 11:01:10,565 200 00.6 https://en.wikipedia.org/wiki/Wikipedia:Featured_pictures
+2019-10-22 11:01:10,830 200 00.8 https://en.wikipedia.org/wiki/Abbasid_Caliphate
+2019-10-22 11:01:11,205 200 00.6 https://en.wikipedia.org/wiki/Wikipedia:News
+2019-10-22 11:01:11,440 200 00.8 https://en.wikipedia.org/wiki/William_McKinley
+2019-10-22 11:01:11,707 200 01.0 https://en.wikipedia.org/wiki/Caroline_of_Ansbach
+2019-10-22 11:01:11,708 200 00.9 https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day/Archive
+2019-10-22 11:01:11,924 200 00.8 https://en.wikipedia.org/wiki/Open_world
+2019-10-22 11:01:12,038 200 00.7 https://en.wikipedia.org/wiki/Grand_Theft_Auto_III
+2019-10-22 11:01:12,518 SQL 00.7 slow: UPDATE `urls` SET `status` = ?, `body` = ? WHERE `id` = ?; params: [200, None, 134]
+2019-10-22 11:01:12,534          stats: 140/215 urls processed, 65%
+2019-10-22 11:01:12,968 200 00.6 https://en.wikipedia.org/wiki/Charles_Scott_%28governor%29
+2019-10-22 11:01:13,076 200 00.8 https://en.wikipedia.org/wiki/Charles_Scott_%28governor%29
+2019-10-22 11:01:13,191 200 00.8 https://en.wikipedia.org/wiki/Wikipedia:Recent_additions
+2019-10-22 11:01:13,309 200 00.7 https://en.wikipedia.org/wiki/List_of_VFL/AFL_premiers
+2019-10-22 11:01:13,444 200 01.0 https://en.wikipedia.org/wiki/Wikipedia:Featured_articles
+2019-10-22 11:01:14,064 SQL 00.6 slow: UPDATE `urls` SET `status` = ?, `body` = ? WHERE `id` = ?; params: [200, None, 141]
+2019-10-22 11:01:14,418 SQL 01.1 slow: UPDATE `urls` SET `status` = ?, `body` = ? WHERE `id` = ?; params: [200, None, 139]
+2019-10-22 11:01:14,518 SQL 01.3 slow: UPDATE `urls` SET `status` = ?, `body` = ? WHERE `id` = ?; params: [200, None, 138]
+2019-10-22 11:01:14,630 SQL 00.5 slow: UPDATE `urls` SET `status` = ? WHERE `id` = ?; params: [999, 143]
+2019-10-22 11:01:15,335 200 01.3 https://en.wikipedia.org/wiki/Johann_Reinhold_Forster
+2019-10-22 11:01:19,997 200 05.4 https://en.wikipedia.org/wiki/Ahmad_ibn_Kayghalagh
+2019-10-22 11:01:20,297 200 05.8 https://en.wikipedia.org/wiki/Talk:Main_Page
+2019-10-22 11:01:21,201 200 06.8 https://en.wikipedia.org/wiki/Oceania
+2019-10-22 11:01:21,530 200 06.1 https://en.wikipedia.org/wiki/906
+2019-10-22 11:01:21,682 200 07.0 https://en.wikipedia.org/wiki/Oceania
+2019-10-22 11:01:30,356 200 10.0 https://en.wikipedia.org/wiki/Special:MyTalk
+2019-10-22 11:01:31,066 200 11.0 https://en.wikipedia.org/wiki/Fred_Keenor
+2019-10-22 11:01:31,133          stats: 150/215 urls processed, 69%
+2019-10-22 11:01:36,105 200 13.9 https://en.wikipedia.org/wiki/User:Godot13
+2019-10-22 11:01:37,385 200 15.2 https://en.wikipedia.org/wiki/User:Godot13
+2019-10-22 11:01:37,465 200 15.2 https://en.wikipedia.org/wiki/User:Godot13
+2019-10-22 11:01:46,117 200 08.6 https://en.wikipedia.org/wiki/Special:RecentChanges
+2019-10-22 11:01:46,176 400 15.0 https://en.wikipedia.org/wiki/Wikipedia:Today%2527s_featured_article/October_2019
+2019-10-22 11:01:46,447 200 09.0 https://en.wikipedia.org/wiki/Wikipedia:Help_desk
+2019-10-22 11:01:46,558 200 16.2 https://en.wikipedia.org/wiki/Portal:Biography
+2019-10-22 11:01:46,821 200 10.6 https://en.wikipedia.org/wiki/Brexit
+2019-10-22 11:01:47,149 200 00.9 https://en.wikipedia.org/wiki/Turkic_peoples
+2019-10-22 11:01:47,352 200 01.1 https://en.wikipedia.org/wiki/Turkic_peoples
+2019-10-22 11:01:47,594 200 00.9 https://en.wikipedia.org/wiki/Wikipedia:Local_Embassy
+2019-10-22 11:01:47,838 200 00.8 https://en.wikipedia.org/wiki/Overexploitation
+2019-10-22 11:01:47,957 200 00.8 https://en.wikipedia.org/wiki/The_Testaments
+2019-10-22 11:01:48,115          stats: 160/215 urls processed, 74%
+2019-10-22 11:01:48,211 SQL 00.6 slow: UPDATE `urls` SET `status` = ?, `body` = ? WHERE `id` = ?; params: [200, None, 155]
+2019-10-22 11:01:48,590 200 00.8 https://en.wikipedia.org/wiki/Special:MyContributions
+2019-10-22 11:01:48,706 200 00.6 https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main%2BPage
+2019-10-22 11:01:48,867 200 00.5 https://en.wikipedia.org/wiki/Eric_Cooper
+2019-10-22 11:01:48,906 200 00.7 https://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Main%2BPage
+2019-10-22 11:01:49,020 200 00.8 https://en.wikipedia.org/wiki/Rutherford_B._Hayes
+2019-10-22 11:01:49,459 200 00.8 https://en.wikipedia.org/wiki/William_Tecumseh_Sherman
+2019-10-22 11:01:49,640 200 00.9 https://en.wikipedia.org/wiki/Competition_law
+2019-10-22 11:01:49,841 200 00.9 https://en.wikipedia.org/wiki/Special:Statistics
+2019-10-22 11:01:50,061 200 01.1 https://en.wikipedia.org/wiki/Special:Statistics
+2019-10-22 11:01:50,401 200 01.1 https://en.wikipedia.org/wiki/Washington_%28state%29
+2019-10-22 11:01:50,734 200 00.8 https://en.wikipedia.org/wiki/Main_Page
+2019-10-22 11:01:50,754 200 00.8 https://en.wikipedia.org/wiki/Main_Page
+2019-10-22 11:01:50,878 200 00.9 https://en.wikipedia.org/wiki/Main_Page
+2019-10-22 11:01:51,011 200 00.9 https://en.wikipedia.org/wiki/Special:WhatLinksHere/Main_Page
+2019-10-22 11:01:51,204          stats: 170/215 urls processed, 79%
+2019-10-22 11:01:51,877 200 00.6 https://en.wikipedia.org/wiki/Portal:Technology
+2019-10-22 11:01:52,013 200 00.9 https://en.wikipedia.org/wiki/Republican_Party_%28United_States%29
+2019-10-22 11:01:52,341 200 01.2 https://en.wikipedia.org/wiki/Republican_Party_%28United_States%29
+2019-10-22 11:01:52,670 200 01.5 https://en.wikipedia.org/wiki/Republican_Party_%28United_States%29
+2019-10-22 11:01:52,690 200 01.5 https://en.wikipedia.org/wiki/Republican_Party_%28United_States%29
+2019-10-22 11:01:53,337 200 01.3 https://en.wikipedia.org/wiki/Kingdom_of_Great_Britain
+2019-10-22 11:01:53,697 SQL 01.0 slow: UPDATE `urls` SET `status` = ?, `body` = ? WHERE `id` = ?; params: [200, None, 170]
+2019-10-22 11:01:53,837 SQL 00.5 slow: UPDATE `urls` SET `status` = ?, `body` = ? WHERE `id` = ?; params: [200, None, 170]
+2019-10-22 11:01:54,330 400 00.7 https://en.wikipedia.org/wiki/Sebasti%25C3%25A1n_Pi%25C3%25B1era
+2019-10-22 11:01:54,485 400 00.7 https://en.wikipedia.org/wiki/Sebasti%25C3%25A1n_Pi%25C3%25B1era
+2019-10-22 11:01:54,567 200 00.6 https://en.wikipedia.org/wiki/2001
+2019-10-22 11:01:55,087 200 01.3 https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Main_Page
+2019-10-22 11:01:55,138 200 01.3 https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Main_Page
+2019-10-22 11:01:55,196 200 00.7 https://en.wikipedia.org/wiki/Blantyre%2C_South_Lanarkshire
+2019-10-22 11:01:55,390          stats: 180/215 urls processed, 83%
+2019-10-22 11:01:55,419 200 00.6 https://en.wikipedia.org/wiki/Lincoln_University_%28New_Zealand%29
+2019-10-22 11:01:56,047 200 00.6 https://en.wikipedia.org/wiki/Template:POTD/2019-10-19
+2019-10-22 11:01:56,137 200 00.6 https://en.wikipedia.org/wiki/Pirelli_Tower
+2019-10-22 11:01:56,198 200 00.9 https://en.wikipedia.org/wiki/Animal_echolocation
+2019-10-22 11:01:56,352 200 01.0 https://en.wikipedia.org/wiki/2019_Hong_Kong_protests
+2019-10-22 11:01:56,980 200 00.9 https://en.wikipedia.org/wiki/John_Sherman
+2019-10-22 11:01:57,359 200 00.8 https://en.wikipedia.org/wiki/Template_talk:Did_you_know
+2019-10-22 11:01:57,611 200 01.3 https://en.wikipedia.org/wiki/Special:Random
+2019-10-22 11:01:57,626 400 01.0 https://en.wikipedia.org/wiki/Spanish%25E2%2580%2593American_War
+2019-10-22 11:01:58,178 200 00.8 https://en.wikipedia.org/wiki/1940
+2019-10-22 11:01:58,486 200 00.6 https://en.wikipedia.org/wiki/Betty_Flint
+2019-10-22 11:01:58,486 200 00.7 https://en.wikipedia.org/wiki/Betty_Flint
+2019-10-22 11:01:58,559 200 00.7 https://en.wikipedia.org/wiki/Betty_Flint
+2019-10-22 11:01:59,417 200 00.6 https://en.wikipedia.org/wiki/List_of_historical_anniversaries
+2019-10-22 11:01:59,484          stats: 190/215 urls processed, 88%
+2019-10-22 11:01:59,511 200 00.7 https://en.wikipedia.org/wiki/Westminster_Abbey
+2019-10-22 11:01:59,695 200 00.9 https://en.wikipedia.org/wiki/Westminster_Abbey
+2019-10-22 11:01:59,710 200 00.8 https://en.wikipedia.org/wiki/Westminster_Abbey
+2019-10-22 11:02:00,457 200 00.8 https://en.wikipedia.org/wiki/Belgian_government_in_exile
+2019-10-22 11:02:00,968 200 00.7 https://en.wikipedia.org/wiki/Coal_mining
+2019-10-22 11:02:01,045 200 00.7 https://en.wikipedia.org/wiki/Wikipedia:Reference_desk
+2019-10-22 11:02:01,061 200 00.8 https://en.wikipedia.org/wiki/Coal_mining
+2019-10-22 11:02:01,180 200 00.6 https://en.wikipedia.org/wiki/Portal:Featured_content
+2019-10-22 11:02:01,977 200 00.6 https://en.wikipedia.org/wiki/US_Treasury_specimen_book
+2019-10-22 11:02:02,022 200 00.6 https://en.wikipedia.org/wiki/US_Treasury_specimen_book
+2019-10-22 11:02:02,068 200 00.7 https://en.wikipedia.org/wiki/US_Treasury_specimen_book
+2019-10-22 11:02:02,452 200 00.9 https://en.wikipedia.org/wiki/Immigration_to_the_United_States
+2019-10-22 11:02:03,008 200 00.8 https://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries/October
+2019-10-22 11:02:03,136 200 00.9 https://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries/October
+2019-10-22 11:02:03,283 200 01.0 https://en.wikipedia.org/wiki/Byzantine_Empire
+2019-10-22 11:02:03,661 200 00.8 https://en.wikipedia.org/wiki/Blantyre_mining_disaster
+2019-10-22 11:02:03,803 SQL 00.5 slow: UPDATE `urls` SET `status` = ?, `body` = ? WHERE `id` = ?; params: [200, None, 197]
+2019-10-22 11:02:03,819          stats: 200/215 urls processed, 93%
+2019-10-22 11:02:04,336 200 00.5 https://en.wikipedia.org/wiki/Template:POTD/2019-10-20
+2019-10-22 11:02:04,388 200 00.6 https://en.wikipedia.org/wiki/1877
+2019-10-22 11:02:04,661 200 00.6 https://en.wikipedia.org/wiki/Template:POTD/2019-10-21
+2019-10-22 11:02:04,706 200 00.6 https://en.wikipedia.org/wiki/Template:POTD/2019-10-21
+2019-10-22 11:02:04,906 200 10.5 https://en.wikipedia.org/w/index.php?title=Main_Page&action=info
+2019-10-22 11:02:05,317 200 00.7 https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Main_Page&id=917272779
+2019-10-22 11:02:05,447 200 00.9 https://en.wikipedia.org/w/index.php?title=Main_Page&action=edit
+2019-10-22 11:02:05,586 200 00.6 https://en.wikipedia.org/wiki/Hoyt_Sherman
+2019-10-22 11:02:05,630 200 00.9 https://en.wikipedia.org/wiki/Burger_King
+2019-10-22 11:02:05,826 200 01.0 https://en.wikipedia.org/wiki/Burger_King
+2019-10-22 11:02:06,138 200 00.8 https://en.wikipedia.org/wiki/George_II_of_Great_Britain
+2019-10-22 11:02:06,359          stats: 210/215 urls processed, 97%
+2019-10-22 11:02:06,490 200 01.0 https://en.wikipedia.org/wiki/Wikipedia:Community_portal
+2019-10-22 11:02:06,857 200 01.0 https://en.wikipedia.org/wiki/Trial_of_Catalonia_independence_leaders
+2019-10-22 11:02:07,019 200 00.7 https://en.wikipedia.org/wiki/Wikipedia:Introduction
+2019-10-22 11:02:07,217 200 00.8 https://en.wikipedia.org/wiki/Wikipedia:Introduction
+2019-10-22 11:02:07,241 200 00.8 https://en.wikipedia.org/wiki/Help:Contents
+2019-10-22 11:02:07,447 200 00.6 https://en.wikipedia.org/wiki/Help:Your_first_article
+2019-10-22 11:02:07,543 200 00.5 https://en.wikipedia.org/wiki/Wikipedia:Contact_us
+2019-10-22 11:02:07,667 200 00.6 https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+2019-10-22 11:02:08,377 200 00.7 https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+2019-10-22 11:02:08,483 200 01.1 https://en.wikipedia.org/wiki/Wikipedia
+2019-10-22 11:02:08,790 200 01.1 https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License
+2019-10-22 11:02:08,815 200 01.4 https://en.wikipedia.org/wiki/Wikipedia
+2019-10-22 11:02:09,129 200 01.4 https://en.wikipedia.org/wiki/Wikipedia
+2019-10-22 11:02:09,473 200 01.0 https://en.wikipedia.org/wiki/Wikipedia
+2019-10-22 11:02:09,821 nothing to do.
+2019-10-22 11:02:09,897 nothing to do.
+2019-10-22 11:02:09,939 SQL 01.1 slow: UPDATE `urls` SET `status` = ?, `body` = ? WHERE `id` = ?; params: [200, None, 214]
+2019-10-22 11:02:09,989 nothing to do.
+2019-10-22 11:02:10,051 SQL 00.9 slow: UPDATE `urls` SET `status` = ?, `body` = ? WHERE `id` = ?; params: [200, None, 215]
+2019-10-22 11:02:10,113 nothing to do.
+2019-10-22 11:02:10,159 SQL 00.7 slow: UPDATE `urls` SET `status` = ?, `body` = ? WHERE `id` = ?; params: [200, None, 215]
+2019-10-22 11:02:10,221 nothing to do.
